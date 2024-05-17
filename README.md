@@ -1,1 +1,2 @@
-# markdown-notes-backend
+# MarkDown Notes
+Репозиторий с backend частью проекта.
